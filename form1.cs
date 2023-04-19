@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace CalcMedia
 {
-    public partial class Form1 : Form
+    public partial class form1 : Form
     {
         public Form1()
         {
