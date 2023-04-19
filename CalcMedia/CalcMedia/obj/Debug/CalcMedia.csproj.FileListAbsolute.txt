@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Form1.resources
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.Properties.Resources.resources
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe.config
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\bin\Debug\CalcMedia.exe
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\bin\Debug\CalcMedia.pdb
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.exe
+C:\Users\Lucas\source\repos\CalcMedia\CalcMedia\obj\Debug\CalcMedia.pdb
